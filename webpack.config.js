@@ -13,7 +13,7 @@ module.exports = {
     filename: "[name].min.js",
     path: path.resolve(__dirname, "public"),
   },
-  mode: "development",
+  mode: "production",
   module: {
     rules: [
       {

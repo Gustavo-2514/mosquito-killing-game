@@ -43,4 +43,3 @@ Caso queria rodar a aplicação na pasta de Produção, altere a config do Webpa
     },
   },
 ```
-
