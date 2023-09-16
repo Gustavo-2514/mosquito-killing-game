@@ -1,6 +1,4 @@
 import "../scss/index.scss";
-import * as bootstrap from "bootstrap";
-
 import { checkScreenHeight, checkScreenWidth } from "./checkScreenSize.js";
 import { setImages } from "./setImages.js";
 import { timerToGenerateMosquito } from "./timerToGenerateMosquito.js";

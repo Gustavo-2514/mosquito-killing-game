@@ -7,6 +7,6 @@ export const startTheGame = () => {
   } else if (difficulty === 3) {
     window.location.href = `../game.html?difficulty=${750}`;
   } else {
-    alert("selecione a dificuldade");
+    alert("Selecione a dificuldade...");
   }
 };
